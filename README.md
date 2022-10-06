@@ -21,4 +21,4 @@ I used the following methods for the analysis:
 I used the activation function ReLU for the hidden layers. Sigmoid is used on the output layer.
 For the compilation, the optimizer is adam and the loss function is binary_crossentropy.
  * The model accuracy is under 75%. This is not a satisfying performance to help predict the outcome of the charity donations.
- * To increase the performance of the model, I increased the number of neurons on one of the hidden layers, then I used a model with three hidden layers. I also tried a different activation function (tanh) but none of these steps helped improve the model's performance.
+ * To increase the performance of the model, I increased the number of neurons on one of the hidden layers, then I used a model with three hidden layers. I also tried a different activation function (tanh), but none of these steps helped improve the model's performance.
