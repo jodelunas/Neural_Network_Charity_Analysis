@@ -16,7 +16,7 @@ I used the following methods for the analysis:
  * The following columns APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMT,      SPECIAL_CONSIDERATIONS, ASK_AMT are the features for our model.
 * Encoding of the categorical variables, spliting into training and testing datasets and standardization have been  applied to the features.
 
-## Compiling, Training, and Evaluating the Model
+### Compiling, Training, and Evaluating the Model
  * This deep-learning neural network model is made of two hidden layers with 80 and 30 neurons respectively. The output layer is made of a unique neuron as it is a binary classification.
 I used the activation function ReLU for the hidden layers. Sigmoid is used on the output layer.
 For the compilation, the optimizer is adam and the loss function is binary_crossentropy.
