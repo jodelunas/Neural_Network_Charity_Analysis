@@ -22,3 +22,7 @@ I used the activation function ReLU for the hidden layers. Sigmoid is used on th
 For the compilation, the optimizer is adam and the loss function is binary_crossentropy.
  * The model accuracy is under 75%. This is not a satisfying performance to help predict the outcome of the charity donations.
  * To increase the performance of the model, I increased the number of neurons on one of the hidden layers, then I used a model with three hidden layers. I also tried a different activation function (tanh), but none of these steps helped improve the model's performance.
+
+### Summary
+
+Everything I tried for the deep-learning neural network module did not produce an acceptable outcome. I could increase or decrease the number of epochs used. I could also use more hidden layers. It might mean I need to try something other than deep-learning. I could use a supervised machine learning model such as the Random Forest Classifier to combine a multitude of decision trees to generate a classified output and evaluate its performance against the deep learning model.
