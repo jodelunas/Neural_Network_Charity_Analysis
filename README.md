@@ -25,4 +25,4 @@ For the compilation, the optimizer is adam and the loss function is binary_cross
 
 ### Summary
 
-Everything I tried for the deep-learning neural network module did not produce an acceptable outcome. I could increase or decrease the number of epochs used. I could also use more hidden layers. It might mean I need to try something other than deep-learning. I could use a supervised machine learning model such as the Random Forest Classifier to combine a multitude of decision trees to generate a classified output and evaluate its performance against the deep learning model.
+Everything I tried for the deep-learning neural network module did not produce an acceptable outcome. I could increase or decrease the number of epochs used. I could also use more hidden layers. It might mean I need to try something other than deep-learning. I could use a supervised machine learning model, such as the Random Forest Classifier, to combine a multitude of decision trees to generate a classified output and evaluate its performance against the deep learning model.
